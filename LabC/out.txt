@@ -1,0 +1,12 @@
+input.txt
+lineParser.c
+lineParser.h
+lineParser.o
+makefile
+mypipeline
+mypipeline.c
+mypipeline.o
+myshell
+myshell.c
+myshell.o
+out.txt
